@@ -1,10 +1,8 @@
 
 /* Your CSS Code here. */
-.container {
+.main{
 	width: 200px;
 	background-color: purple;
-}
-.main{
 	border-left: 5px green solid;
 	padding: 10px;
 }
